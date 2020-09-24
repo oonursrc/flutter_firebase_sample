@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169463722968",
+    "firebase_url": "https://anket-bfff4.firebaseio.com",
+    "project_id": "anket-bfff4",
+    "storage_bucket": "anket-bfff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169463722968:android:011b4b0c20153102dbb8ad",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169463722968-kaei3sjic4ltlvlkgcd3kgqapalid703.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBlBCFRE16cDuwIWFgZaRwY6IF5EB8yQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169463722968-kaei3sjic4ltlvlkgcd3kgqapalid703.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
